@@ -1,2 +1,0 @@
-# Rifoi
-rifoi bd
